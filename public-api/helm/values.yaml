@@ -1,6 +1,6 @@
 image:
-  repository: "hashicorpdemoapp/public-api"
-  tag: "v0.0.5"
+  repository: "congnv/public-api"
+  tag: "latest"
   pullPolicy: IfNotPresent
   pullSecrets: null
 
